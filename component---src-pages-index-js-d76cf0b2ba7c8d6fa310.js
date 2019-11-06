@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{RXBc:function(e,n,t){"use strict";t.r(n);var a=t("q1tI"),r=t.n(a),c=t("Bl7J"),i=t("vrFN");n.default=function(){return r.a.createElement(c.a,null,r.a.createElement(i.a,{title:"Home"}),r.a.createElement("h2",null,"This Website is Under Construction"))}}}]);
+//# sourceMappingURL=component---src-pages-index-js-d76cf0b2ba7c8d6fa310.js.map
